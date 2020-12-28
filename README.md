@@ -8,9 +8,9 @@
 - ##### Run this command is cmd to make a symbolic link to todo.bat `mklink generator generator.bat` 
 - ##### If the link is created succesfully script can be run using .\generator
 - ##### This script generate random passwords and random usernames :)
-- ##### Two files known as `dog.jpg` and `cat.jpg` are important please do not delete those files
-- ##### If you remove those files you will an error. I am working on how to deal with that error. Removal does not stop the execution #&7892 . It still works and generate passwords and usernames
-- ##### If you run as  `path\to\script>.\generator.bat` first time it will make the files hidden as this is intended. Also it will make the two images `cat.jpg` & `dog.jpg` read-only. It's kind of small security I tried to add from my side😋😅.Those two images will not be hidden
+- ##### Two files known as `dog.jpg` and `cat.jpg` in src folder are important please do not delete those files
+- ##### If you remove those files you will an error. I am working on how to deal with that . Removal does not stop the execution 😉 . It still works and generate passwords and usernames
+- ##### If you run as  `path\to\script>.\generator.bat` first time it will make the files hidden as this is intended. Also it will make the two images from src folder `cat.jpg` & `dog.jpg` read-only. It's kind of small security I tried to add from my side😋😅.Those two images will not be hidden
 - ##### To see the hidden files type in cmd
   #### ````path\to\script> attrib -h *````
    
