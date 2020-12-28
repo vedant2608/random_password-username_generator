@@ -54,7 +54,7 @@
 -h or hard to generate the passwords of difficult level> The size of passwords and usernames generated between 8-12 letters
 ---
  
- <iframe src="https://www.youtube.com/embed/r9i2cZ2rYtc" frameborder="0" allowfullscreen="true"> </iframe>
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/r9i2cZ2rYtcE/0.jpg)](http://www.youtube.com/watch?v=r9i2cZ2rYtc)
 
 
 # <span style="background-color:lightblue">Thank you for reading upto this part. I hope you liked the project. Any suggestions are always welcome😊😊</span>
