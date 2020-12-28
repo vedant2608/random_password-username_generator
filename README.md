@@ -5,7 +5,7 @@
 ----
 ### <span style="background-color:#8FBC8F">General Information 😃</span>
 - ##### Clone this repository to your local system using command prompt in administrative mode
-- ##### Run this command is cmd to make a symbolic link to todo.bat `mklink todo todo.bat` 
+- ##### Run this command is cmd to make a symbolic link to todo.bat `mklink generator generator.bat` 
 - ##### If the link is created succesfully script can be run using .\generator
 - ##### This script generate random passwords and random usernames :)
 - ##### Two files known as `dog.jpg` and `cat.jpg` are important please do not delete those files
