@@ -55,7 +55,7 @@
 ##### The parameter -m or --mode is necessary to define the difficulty level of generation of usernames and passwords
 - e or easy to generate the passwords of easy level. The size of passwords and username generated is betwwen 1 to 4
 - m or moderate to generate the passwords of moderate level. The size of passwords and username generated is betwwen 5 to 7
--h or hard to generate the passwords of difficult level> The size of passwords and usernames generated between 8-12 letters
+- h or hard to generate the passwords of difficult level. The size of passwords and usernames generated between 8-12 letters
 ---
 #### For more details see this demo video
 ### [Demo video](https://youtu.be/r9i2cZ2rYtc)
