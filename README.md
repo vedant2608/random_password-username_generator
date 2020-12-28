@@ -1,5 +1,5 @@
 ## <span style="background-color:#97CBEE">Random password and username generator using python 😄😄</span>
-
+#### [Demo Video](https://youtu.be/r9i2cZ2rYtc)
 ##### Please read the `README.md ` file carefully 
 ###### I am working on how can I make this code run on linux too. I am a beginner but surely I will write the script for that too
 ----
@@ -53,10 +53,10 @@
 - m or moderate to generate the passwords of moderate level. The size of passwords and username generated is betwwen 5 to 7
 -h or hard to generate the passwords of difficult level> The size of passwords and usernames generated between 8-12 letters
 ---
- 
- (http://www.youtube.com/watch?v=r9i2cZ2rYtc)
+#### For more details see this demo video
+### [Demo video](https://youtu.be/r9i2cZ2rYtc)
 
-
+---
 # <span style="background-color:lightblue">Thank you for reading upto this part. I hope you liked the project. Any suggestions are always welcome😊😊</span>
 
  
