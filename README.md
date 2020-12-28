@@ -4,7 +4,8 @@
 ###### I am working on how can I make this code run on linux too. I am a beginner but surely I will write the script for that too
 ----
 ### <span style="background-color:#8FBC8F">General Information :)</span>
-- ##### script can be run using .\generator
+- ##### Run this command is cmd to make a symbolic link to todo.bat `mklink todo todo.bat` 
+- ##### If the link is created succesfully script can be run using .\generator
 - ##### This script generate random passwords and random usernames :)
 - ##### Two files known as `dog.jpg` and `cat.jpg` are important please do not delete those files
 - ##### If you remove those files you will an error. I am working on how to deal with that error. Removal does not stop the execution #&7892 . It still works and generate passwords and usernames
