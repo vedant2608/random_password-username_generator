@@ -4,7 +4,7 @@
 ###### I am working on how can I make this code run on linux too. I am a beginner but surely I will write the script for that too
 ----
 ### <span style="background-color:#8FBC8F">General Information 😃</span>
-- ##### Clone this repository to your local system
+- ##### Clone this repository to your local system using command prompt in administrative mode
 - ##### Run this command is cmd to make a symbolic link to todo.bat `mklink todo todo.bat` 
 - ##### If the link is created succesfully script can be run using .\generator
 - ##### This script generate random passwords and random usernames :)
