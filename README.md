@@ -10,7 +10,7 @@
 - ##### This script generate random passwords and random usernames :)
 - ##### Two files known as `dog.jpg` and `cat.jpg` in src folder are important please do not delete those files
 - ##### If you remove those files you will an error. I am working on how to deal with that . Removal does not stop the execution 😉 . It still works and generate passwords and usernames
-- ##### If you run as  `path\to\script>.\generator.bat` first time it will make the files hidden as this is intended. Also it will make the two images from src folder `cat.jpg` & `dog.jpg` read-only. It's kind of small security I tried to add from my side😋😅.Those two images will not be hidden
+- ##### If you run as  `path\to\script>.\generator` first time it will make the files hidden as this is intended. Also it will make the two images from src folder `cat.jpg` & `dog.jpg` read-only. It's kind of small security I tried to add from my side😋😅.Those two images will not be hidden
 - ##### To see the hidden files type in cmd
   #### ````path\to\script> attrib -h *````
    
@@ -24,6 +24,10 @@
 ## <span style="background-color:#F37615">How to use this script</span>😄
  -  ##### Clone this repository from the github to your local machine
  - ##### Change your directory to where you cloned the repository 
+ - ##### Run this command is cmd to make a symbolic link to todo.bat 
+   ```
+   mklink generator generator.bat
+   ``` 
  - ##### Type the following in terminal
    ```batch
    path\to\script>.\generator
